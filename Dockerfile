@@ -8,7 +8,7 @@ EXPOSE 5000
 EXPOSE 8088
 
 ARG curaEngineVersion=15.04.6
-ARG octoPrintVersion=1.3.4
+ARG octoPrintVersion=1.3.12
 
 VOLUME /var/local/octoprint
 
